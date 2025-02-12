@@ -96,6 +96,11 @@
     width: 100%; /* Full-width container on smaller screens */
   }
 
+  img {
+    max-width: 100%; /* Ensures the image does not exceed the container's width */
+    height: auto; /* Maintains the aspect ratio */
+  }
+
   .message {
     font-size: 24px; /* Smaller message size on mobile */
   }
