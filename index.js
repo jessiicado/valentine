@@ -15,11 +15,11 @@ document.addEventListener("DOMContentLoaded", function () {
     "cat-5.gif",
   ];
   const msgList = [
-    "Will you be my valentine?",
     "Are you sure?",
     "ARE YOU REALLY SURE?!?",
     "I thought we had something special...",
     "PLEASE POOKIE!!",
+    "PWEEAAASSSEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
   ];
 
   let gifIndex = 0;
